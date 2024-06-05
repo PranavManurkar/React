@@ -1,0 +1,20 @@
+
+.home-background {
+    position: absolute;
+    width: 100%;
+    height: 100vh; 
+    background-image: url('C:/Users/prana/OneDrive/Desktop/react/my-app/src/components/foggy-background.jpg'); /* Path to your foggy image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.3); 
+  }
+  
